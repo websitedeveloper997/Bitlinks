@@ -42,7 +42,7 @@ export default function Home() {
               </button>
             </Link>
 
-            <Link href="https://github.com/websitedeveloper997">
+            <Link href="https://github.com/websitedeveloper997" target="_blank" rel="noopener noreferrer">
               <button className="px-8 py-3 rounded-2xl border border-purple-500 text-purple-300 hover:bg-purple-600 hover:text-white transition">
                 GitHub
               </button>
